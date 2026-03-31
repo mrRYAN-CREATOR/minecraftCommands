@@ -1,3 +1,5 @@
+# Main info
+
 This is a command for 26.1 that gives you a diamond that is edible and has a custom name.
 
 ```
@@ -9,3 +11,9 @@ This is a command for 26.1 that gives you a diamond that is edible and has a cus
 
 > [!NOTE]
 > You can change the diamond, description, eat time, nutrition and saturation, and name all you want
+
+Thanks to @blockerlocker for inspiration to make this github!
+
+# Extra Stuff
+
+My YT Channel is https://www.youtube.com/@EliteD-Class
